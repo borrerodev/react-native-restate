@@ -1,5 +1,19 @@
 # Welcome to your Expo app 👋
 
+:construction: Proyecto en construcción :construction:
+## :hammer: TODO
+- Desarrollar un Backend en .NET Core con arquitectura de Micorservicios y dejar AppWrite solo para autenticacion de Google (A futuro tambien se quitaria)
+- Crear mas opciones como comentarios
+  
+  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+Study application for a real estate company with React Native, with Google authentication using AppWrite as backend and non-relational database, using the Expo framework that allows to create mobile applications for iOS and Android, Tailwind CSS and TypeScript.
+
+# Tools:
+<em> # Expo </em>
+<em> # AppWrite </em>
+<em> # Tailwind CSS </em>
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
